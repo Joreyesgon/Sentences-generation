@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    padding: 0;
+    
+}
+
+.container {
+    background-color:rgb(202, 203, 204);
+    width: 700px;
+    height: 100px;
+    margin: auto;
+    align-items: center;
+    text-align: center;
+}
