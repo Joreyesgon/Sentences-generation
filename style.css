@@ -1,12 +1,13 @@
 body {
     margin: 0;
     padding: 0;
+    background-color: rgb(35, 39, 46);
     
 }
 
 .container {
     background-color:rgb(202, 203, 204);
-    width: 700px;
+    width: 650px;
     height: 100px;
     margin: auto;
     align-items: center;
